@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+    color: white;
+
+}
+
+#navbar {
+
+    height: 80px;
+    font-size: 30px;
+    border: 1px;
+    border-style: dashed;
+
+
+}
+
+#flex {
+
+    display: flex;
+}
+
+#sidebar {
+    border: 1px;
+    border-style: dashed;
+
+}
+
+#main {
+
+    border: 1px;
+    border-style: dashed;
+}
